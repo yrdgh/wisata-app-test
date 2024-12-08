@@ -101,8 +101,8 @@ onUnmounted(() => {
 
 <style>
 .photos-image {
-  height: 19.5em;
-  width: 19.5em;
+  height: 19em;
+  width: 19em;
   object-fit: cover;
   margin-bottom: 1.2em;
   cursor: pointer;
